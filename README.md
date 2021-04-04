@@ -4,7 +4,13 @@
 	
 [![siisee11's github stats](https://github-readme-stats.vercel.app/api?username=siisee11)](https://github.com/siisee11/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siisee11&hide=jupyter%20notebook&langs_count=7&card_width=500)](https://github.com/siisee11/github-readme-stats)
+
 </div>
+
+- 🔭 I’m currently working on DICL lab
+- 🌱 I’m currently learning "Block chain"
+
 
 <!--
 **siisee11/siisee11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
