@@ -6,10 +6,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siisee11&hide=jupyter%20notebook&langs_count=7&card_width=500)](https://github.com/siisee11/github-readme-stats)
 
-</div>
-
 - 🔭 I’m currently working on DICL lab
 - 🌱 I’m currently learning "Block chain"
+
+</div>
+
 
 
 <!--
