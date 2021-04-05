@@ -4,7 +4,7 @@
 	
 ![siisee11's GitHub stats](https://github-readme-stats.vercel.app/api?username=siisee11&show_icons=true&theme=radical)
 	
-[![siisee11's github stats](https://github-readme-stats.vercel.app/api?username=siisee11)](https://github.com/siisee11/github-readme-stats)
+[![siisee11's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siisee11)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siisee11&hide=jupyter%20notebook&langs_count=7&card_width=500)](https://github.com/siisee11/github-readme-stats)
 
