@@ -2,11 +2,11 @@
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
-![siisee11's GitHub stats](https://github-readme-stats.vercel.app/api?username=siisee11&show_icons=true&theme=radical&count_private=true)
+![siisee11's GitHub stats](https://github-readme-stats.vercel.app/api?username=siisee11&show_icons=true&theme=dracula&count_private=true)
 	
-[![siisee11's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siisee11&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![siisee11's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siisee11&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siisee11&hide=jupyter%20notebook,assembly&langs_count=7&card_width=500&theme=radical)](https://github.com/siisee11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siisee11&hide=jupyter%20notebook,assembly&langs_count=7&card_width=500&theme=dracula)](https://github.com/siisee11/github-readme-stats)
 
 🔭 I’m currently working on DICL lab
 🌱 I’m currently learning "Block chain"
