@@ -2,7 +2,7 @@
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
-![siisee11's GitHub stats](https://github-readme-stats.vercel.app/api?username=siisee11&show_icons=true&theme=radical)
+![siisee11's GitHub stats](https://github-readme-stats.vercel.app/api?username=siisee11&show_icons=true&theme=radical?count_private=true)
 	
 [![siisee11's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siisee11&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
