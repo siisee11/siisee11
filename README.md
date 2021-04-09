@@ -4,11 +4,11 @@
 	
 ![siisee11's GitHub stats](https://github-readme-stats.vercel.app/api?username=siisee11&show_icons=true&theme=dracula&count_private=true)
 	
-[![siisee11's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siisee11&theme=dracula)](https://wakatime.com/dashboard)
+<!-- [![siisee11's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siisee11&theme=dracula)](https://wakatime.com/dashboard) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siisee11&hide=jupyter%20notebook,assembly&langs_count=7&card_width=500&theme=dracula)](https://github.com/siisee11/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@siisee11/b6fa3307-a9ee-4811-8bab-45f81a415878.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@siisee11/e3db3622-ea6f-418b-8aa1-4ffcd7b0560a.png" /></a>
 
 🔭 I’m currently working on DICL lab
 🌱 I’m currently learning "Block chain"
