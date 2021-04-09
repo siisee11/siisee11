@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siisee11&hide=jupyter%20notebook,assembly&langs_count=7&card_width=500&theme=dracula)](https://github.com/siisee11/github-readme-stats)
 
+<figure><embed src="https://wakatime.com/share/@siisee11/b6fa3307-a9ee-4811-8bab-45f81a415878.svg"></embed></figure>
+
 🔭 I’m currently working on DICL lab
 🌱 I’m currently learning "Block chain"
 
