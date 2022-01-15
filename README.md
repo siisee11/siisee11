@@ -12,8 +12,8 @@
 -->
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@siisee11/e3db3622-ea6f-418b-8aa1-4ffcd7b0560a.png" /></a>
 
-🔭 I’m currently working on DICL lab
-🌱 I’m currently learning "Block chain"
+🔭 I’m currently working on Symbiote AI
+🌱 I’m currently learning "Everything"
 
 </div>
 
