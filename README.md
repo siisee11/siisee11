@@ -1,6 +1,6 @@
 <div align=center>	
 
-🔭 Looking for a job
+🔭 Wordbricks
 	
 👯 I’m in team Coreators
 
